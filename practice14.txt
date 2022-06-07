@@ -1,2 +1,2 @@
-develop xxxx
+develop xxxx develop より修正
 
